@@ -44,7 +44,7 @@
 
 将需要处理的图片直接拖入`main.exe`，如图
 
-图片
+![演示](https://github.com/user-attachments/assets/a730e456-d4fa-4d42-9b5a-6da791eb033c)
 
 可以一次拖入多张照片，如果有重名程序会询问您是否要覆盖文件
 
