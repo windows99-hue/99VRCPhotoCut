@@ -1,0 +1,4 @@
+clc99
+Pillow
+keyboard
+pyinstaller
