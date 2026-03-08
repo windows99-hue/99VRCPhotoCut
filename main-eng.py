@@ -70,7 +70,7 @@ if __name__ == "__main__":
 
 """
     print(ascii_art)
-    print_notrun("Welcome to 99VRChat Instant Photo Cropper!")
+    print_notrun("Welcome to 99VRCPhotoCut!")
 
     # Check if no files are dragged in
     if len(sys.argv) < 2:
