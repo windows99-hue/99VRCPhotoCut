@@ -42,7 +42,7 @@ This program needs to be compiled into an `exe` file to be usable.
 
 Simply drag and drop the photos you want to process onto `main.exe`, as shown in the image below:
 
-[Image]
+![Preview](https://github.com/user-attachments/assets/a730e456-d4fa-4d42-9b5a-6da791eb033c)
 
 Multiple photos can be dragged in at once. If there are duplicate filenames, the program will prompt you to confirm whether to overwrite the files.
 
